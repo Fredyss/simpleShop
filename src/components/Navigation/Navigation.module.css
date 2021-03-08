@@ -1,0 +1,11 @@
+.Navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+  padding: 20px;
+  border-bottom: 2px solid gray;
+  background-color: black;
+  margin: 0 !important;
+}

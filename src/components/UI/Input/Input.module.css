@@ -1,0 +1,15 @@
+.FormInput {
+  border: none;
+  border-bottom: 1px solid #dae1e7;
+  width: 480px;
+  height: 40px;
+}
+
+.CountInput {
+  text-align: center;
+  border: 1px solid #dae1e7;
+  border-radius: 5px;
+  height: 90%;
+  width: 80px;
+  font-size: larger;
+}

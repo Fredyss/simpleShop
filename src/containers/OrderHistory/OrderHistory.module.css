@@ -1,0 +1,6 @@
+.OrderWrapper {
+  display: grid;
+  margin: 40px;
+  grid-template-columns: repeat(auto, 210px);
+  text-align: center;
+}
